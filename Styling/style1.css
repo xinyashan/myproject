@@ -1,0 +1,16 @@
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.wellcenter {
+text-align: center; 
+vertical-align: middle; 
+background-color: goldenrod; 
+
+
+}
+
+i:hover {
+
+    transition: 0.10s ease-in-out;
+
+    color: pink !important;transform: scaleX(-1)
